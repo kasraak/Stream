@@ -84,6 +84,7 @@ export default function Nav() {
         <NavLink to="/movies">Movies</NavLink>
         <NavLink to="/series">Series</NavLink>
         <NavLink to="/list">My List</NavLink>
+        <NavLink to="/list">Kir-E-Khar</NavLink>
 
         <NavLink className="mobile" to="/movies">
           <i className="fa-regular fa-film"></i>
